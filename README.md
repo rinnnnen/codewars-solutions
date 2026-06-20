@@ -4,7 +4,7 @@ solving tasks from codewars:
 category | number of tasks |
 8 kyu    | 11              |
 7 kyu    | 5               |
-6 kyu    | 1               |
+6 kyu    | 2               |
 5 kyu    | 0               |
 4 kyu    | 0               |
 3 kyu    | 0               |
