@@ -2,7 +2,7 @@
 solving tasks from codewars:
 ---------------------------------
 category | number of tasks |
-8 kyu    | 11              |
+8 kyu    | 12              |
 7 kyu    | 5               |
 6 kyu    | 2               |
 5 kyu    | 0               |
