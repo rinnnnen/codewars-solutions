@@ -1,12 +1,7 @@
 # codewars-solutions
-solving tasks from codewars:
----------------------------------
-category | number of tasks |
-8 kyu    | 17              |
-7 kyu    | 15              |
-6 kyu    | 4               |
-5 kyu    | 0               |
-4 kyu    | 0               |
-3 kyu    | 0               |
-2 kyu    | 0               |
-1 kyu    | 0               |
+My journey through Python kata's. I solve 3-5 tasks daily to build logic and syntax skills for my dream.
+
+## stats:
+- 8 kyu: 17
+- 7 kyu: 15
+- 6 kyu: 4
