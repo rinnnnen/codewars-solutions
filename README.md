@@ -4,7 +4,7 @@ I have been python since june 2026, solving problem and exercise between trainin
 
 ## stats:
 - 8 kyu: 22
-- 7 kyu: 21
+- 7 kyu: 22
 - 6 kyu: 5
 
 ## goals:
