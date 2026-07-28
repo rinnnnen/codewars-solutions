@@ -3,7 +3,7 @@ My journey through Python kata's. I solve 3-5 tasks daily to build logic and syn
 I have been python since june 2026, solving problem and exercise between training:)
 
 ## stats:
-- 8 kyu: 26
+- 8 kyu: 27
 - 7 kyu: 22
 - 6 kyu: 5
 
