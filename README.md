@@ -9,4 +9,3 @@ I have been python since june 2026, solving problem and exercise between trainin
 
 ## goals:
 - 150 solved problems before september
-- cool profile
